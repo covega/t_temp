@@ -5,6 +5,14 @@ body {
 	font-family:"Montserrat", sans-serif;
 }
 
+.content {
+	position: relative;
+	background-color:white;
+	opacity:0.75;
+	width: 50%;
+	height:50%;
+	margin:auto;
+}
 
 .header {
 	position: relative;
