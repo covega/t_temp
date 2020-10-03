@@ -1,0 +1,33 @@
+body {
+	background-image:url("flag.png");
+	text-align:center;
+	color:black;
+	font-family:"Montserrat", sans-serif;
+}
+
+
+.header {
+	position: relative;
+	font-size: 60px!important
+}
+
+.temp-header{
+	position: relative;
+	padding-top:5%;
+}
+
+.temp {
+	position: relative;
+	font-size: 90px;
+
+}
+
+.reading {
+	position: relative;
+
+}
+
+.footer{
+	position: relative;
+	padding-top:20%;
+}
